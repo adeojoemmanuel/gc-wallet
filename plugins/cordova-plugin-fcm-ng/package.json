@@ -1,0 +1,66 @@
+{
+  "_from": "cordova-plugin-fcm-ng@^4.2.0",
+  "_id": "cordova-plugin-fcm-ng@4.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-HhbmSjpxauWMoPtfpI3QqneYgbjT4R/2ULBPryXXRc7Mo/4lqwUcgt7WebNj8dwxha7i2jrXPw7I3udjej/xLw==",
+  "_location": "/cordova-plugin-fcm-ng",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-fcm-ng@^4.2.0",
+    "name": "cordova-plugin-fcm-ng",
+    "escapedName": "cordova-plugin-fcm-ng",
+    "rawSpec": "^4.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^4.2.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-fcm-ng/-/cordova-plugin-fcm-ng-4.2.0.tgz",
+  "_shasum": "b6c24743ba8a6b37c3c345c15062b10c80dd3b57",
+  "_spec": "cordova-plugin-fcm-ng@^4.2.0",
+  "_where": "/Users/abrahamibrahim/Desktop/gcwalletv3",
+  "author": {
+    "name": "Felipe Echanique Torres",
+    "email": "felipe.echanique@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/cmgustavo/cordova-plugin-fcm/issues"
+  },
+  "bundleDependencies": false,
+  "cordova_name": "Cordova FCM Push Plugin NG",
+  "deprecated": false,
+  "description": "Google Firebase Cloud Messaging Cordova Plugin",
+  "engines": [],
+  "englishdoc": "",
+  "homepage": "https://github.com/cmgustavo/cordova-plugin-fcm#readme",
+  "issue": "",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "notifications",
+    "push",
+    "firebase",
+    "fcm",
+    "ios",
+    "android",
+    "cordova",
+    "analytics"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-fcm-ng",
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "repo": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmgustavo/cordova-plugin-fcm.git"
+  },
+  "version": "4.2.0"
+}
